@@ -5,5 +5,5 @@ def meal_choice(veg1, veg2, protein = "meat")
  return meal
 end
 
-meal_choice("broccoli", "macaroni")
-meal_choice("broccoli", "macaroni", "tofu")
+#meal_choice("broccoli", "macaroni")
+#meal_choice("broccoli", "macaroni", "tofu")
